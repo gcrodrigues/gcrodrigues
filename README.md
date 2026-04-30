@@ -1,7 +1,5 @@
 # Gustavo de Carvalho
 
-Front-end Developer at ModalGR
-
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Carvalho-7597bc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gcrodrigues/)](https://www.linkedin.com/in/gcrodrigues/) 
 [![Gmail Badge](https://img.shields.io/badge/-gcrodrigues413@gmail.com-7597bc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gcrodrigues413@gmail.com)](mailto:gcrodrigues413@gmail.com)
 
