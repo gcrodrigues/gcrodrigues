@@ -1,10 +1,15 @@
-# Gustavo de Carvalho
+## Gustavo de Carvalho
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Carvalho-7597bc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gcrodrigues/)](https://www.linkedin.com/in/gcrodrigues/) 
-[![Gmail Badge](https://img.shields.io/badge/-gcrodrigues413@gmail.com-7597bc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gcrodrigues413@gmail.com)](mailto:gcrodrigues413@gmail.com)
+Full-stack engineer (JavaScript/TypeScript), strongest on the frontend with
+**React, React Native and Next.js** — and just as comfortable owning the backend
+with **Node.js, Fastify, Prisma and PostgreSQL**.
 
-Always looking for self improvement. Passionate about how technology can transform people's lives.
+I like building things end to end. I'm currently co-founder and lead engineer of
+**MX Clinics**, a multi-tenant SaaS for health clinics — owning everything from
+architecture (DDD / Clean Architecture, multi-tenancy) and CI/CD to the web and
+mobile apps. I'm also into applying AI tooling to real dev workflows: MCP servers,
+agents, and n8n automations.
 
-I'm a Fullstack Javascript Developer but currently focused on Front-end Development using React, React Native, Typescript and others languages/libraries.
+📍 São Vicente, SP, Brazil · open to remote work
 
-"Progress is impossible without change, and those who cannot change their minds cannot change anything."
+> "Progress is impossible without change, and those who cannot change their minds cannot change anything."
